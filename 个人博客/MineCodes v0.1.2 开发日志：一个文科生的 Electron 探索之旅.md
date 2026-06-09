@@ -1,3 +1,12 @@
+title: MineCodes v0.3.0 开发日志：一个文科生的 Electron 探索之旅
+published: 2026-05-04
+description: 'MineCodes 是一个为 Minecraft 玩家准备的辅助工具 —— 查指令、找物品 ID、存笔记，一站式搞定。'
+image: ""
+tags: ["我的世界", "转载", "教程", "建筑"]
+category: '我的世界'
+draft: false 
+lang: ''
+
 # MineCodes v0.3.0 开发日志：一个文科生的 Electron 探索之旅
 
 > **MineCodes** 是一个为 Minecraft 玩家准备的辅助工具 —— 查指令、找物品 ID、存笔记，一站式搞定。
@@ -134,5 +143,5 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 
 *本文为 MineCodes 第 1 篇开发日志，后续将持续记录项目迭代中的思考与踩坑经验。*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzk1OTEzOF19
+eyJoaXN0b3J5IjpbLTE4Njc0ODMzNTldfQ==
 -->
