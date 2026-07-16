@@ -140,10 +140,11 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 
 > 如果你觉得这篇文章对你有帮助
 
-文字1
-w
+```
+文字
+```
 
- 2. [ ] 不妨点个赞。  
+ - [ ] 不妨点个赞。  
        > 当然，如果你愿意喝杯咖啡 —— 那我更
 
 ***## **文字*****
@@ -161,6 +162,6 @@ w
 标题
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzQ1MzcwMSwtMTYyNjM2NDIzNiwtMT
+eyJoaXN0b3J5IjpbMTU2ODAzNjgyMCwtMTYyNjM2NDIzNiwtMT
 U4NTkwMzQyOV19
 -->
