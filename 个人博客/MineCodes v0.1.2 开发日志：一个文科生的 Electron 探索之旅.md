@@ -139,12 +139,19 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 ---
 
 > 如果你觉得这篇文章对你有帮助
+> 
+> ``` 文字 ```
+
+ - [ ] 不妨点个赞。
+
+|文字|  |
+|--|--|
+|  |  |
+
 
 ```
-文字
+文字  
 ```
-
- - [ ] 不妨点个赞。  
        > 当然，如果你愿意喝杯咖啡 —— 那我更
 
 ***## **文字*****
@@ -162,6 +169,6 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 标题
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODAzNjgyMCwtMTYyNjM2NDIzNiwtMT
+eyJoaXN0b3J5IjpbLTE0MTA0MTkxMiwtMTYyNjM2NDIzNiwtMT
 U4NTkwMzQyOV19
 -->
