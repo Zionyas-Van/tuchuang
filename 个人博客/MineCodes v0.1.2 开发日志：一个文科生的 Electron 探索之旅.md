@@ -138,13 +138,24 @@ MineCodes 会持续更新。接下来几个版本的计划包括：
 
 ---
 
-> 如果你觉得这篇文章对你有帮助，不妨点个赞。  
-> 当然，如果你愿意请我喝杯咖啡 —— 那我更要认真写下一篇了。
+> 如果你觉得这篇文章对你有帮助，
+
+ - [ ] 不妨点个赞。  
+       > 当然，如果你愿意请我喝杯咖啡 —— 那我更
+
+要认真写下一篇了。
 
 ---
 
-*本文为 MineCodes 第 1 篇开发日志，后续将持续记录项目迭代中的思考与踩坑经验。*
+*本文为 MineCodes 第 1 篇开
+
+发日志，
+
+后续将持续记录项目迭代中的思考与踩坑经验。*
+
+标题
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYzNjQyMzYsLTE1ODU5MDM0MjldfQ
-==
+eyJoaXN0b3J5IjpbODA4OTEzMTU2LC0xNjI2MzY0MjM2LC0xNT
+g1OTAzNDI5XX0=
 -->
