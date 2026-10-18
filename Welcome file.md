@@ -11,7 +11,7 @@
 另外，我还新增了一个板块：“我的兴趣”。
 ![](https://1815356055.cdn.123clouddisk.com/1815356055/yk6baz03t0m000dlnm5rxi0hy854316cDIYPAIDyAqayAGxzDdU0Dqe=.png)
 
-
+关于上一条文章说的评论系统，已经被删掉了，因为这套评论系统在国内无法正常访问。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzY1NTIyOCwtMjEyOTA0NjA4M119
+eyJoaXN0b3J5IjpbNTcwMzcwMDU3LC0yMTI5MDQ2MDgzXX0=
 -->
