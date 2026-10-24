@@ -3,8 +3,9 @@
 今天晚上本来打算上 B站 看新一集提欧奥特曼的，突然发现了这条视频：
 ![](https://1815356055.cdn.123clouddisk.com/1815356055/yk6baz03t0l000dlnm5r657bfuuwdhz2DIYPAIDyAqayAGxzDdU0Dqe=.jpg)
 
-我一看
+我一看 —— **列车、末日、求生、丧尸**......这怎么和番茄小说上的**末日列车**还有我的世界列车**惊变100天**这么像......
+我本来也是一个喜欢玩求生建造类游戏的wan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTUyNzU1Nyw1NzAzNzAwNTcsLTIxMj
+eyJoaXN0b3J5IjpbMTE0Njk3NTM2Nyw1NzAzNzAwNTcsLTIxMj
 kwNDYwODNdfQ==
 -->
