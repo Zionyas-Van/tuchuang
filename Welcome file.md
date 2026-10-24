@@ -8,10 +8,14 @@
 ![](https://1815356055.cdn.123clouddisk.com/1815356055/ynf1no03t0n000dlnm5rj122y8q3ac7oDIYPAIDyAqayAGxzDdU0Dqe=.jpg)
 进入候车厅后，正中央的大树上就绑着一个怪物，这个游戏把他叫“亡灵”，用木棍做成简易木棒两下就能让他去世。
 随后搜了搜候车厅就准备上车了：
+![](https://1815356055.cdn.123clouddisk.com/1815356055/yk6baz03t0m000dlnm5ry0jzl1aiq4l5DIYPAIDyAqayAGxzDdU0Dqe=.jpg)
 ![](https://1815356055.cdn.123clouddisk.com/1815356055/ynf1no03t0m000dlnm5qqaix6uagxbe5DIYPAIDyAqayAGxzDdU0Dqe=.jpg)
 列车核心车厢里有一个大壁炉，这个不像是上世纪蒸汽火车的炉子，更不像现代火车，我感觉它长得好像一个心脏。
+把木棍放进去就可以燃烧了，让我们启程吧！
+![](https://1815356055.cdn.123clouddisk.com/1815356055/ymjew503t0n000dlnm5uinjmihq4h2r8DIYPAIDyAqayAGxzDdU0Dqe=.jpg)
+![](https://1815356055.cdn.123clouddisk.com/1815356055/yk6baz03t0n000dlnm5sq66ut6q538gmDIYPAIDyAqayAGxzDdU0Dqe=.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTU1MTI5MiwtNDUwMjA0NTE5LDU3MD
-M3MDA1NywtMjEyOTA0NjA4M119
+eyJoaXN0b3J5IjpbMTQwNjI1NjMxLC00NTAyMDQ1MTksNTcwMz
+cwMDU3LC0yMTI5MDQ2MDgzXX0=
 -->
