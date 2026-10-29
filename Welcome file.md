@@ -1,7 +1,7 @@
 # 感谢您使用 DeepThink Monet。
 
-DeepThink s
+DeepThink Monet 是一款遵循 Google MD3 设计规范开发的莫奈取色风格 DeepSeek API 客户端。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTE2ODM1NSwtNDUwMjA0NTE5LDU3MD
-M3MDA1NywtMjEyOTA0NjA4M119
+eyJoaXN0b3J5IjpbNzU5NzQ0MDY4LC00NTAyMDQ1MTksNTcwMz
+cwMDU3LC0yMTI5MDQ2MDgzXX0=
 -->
